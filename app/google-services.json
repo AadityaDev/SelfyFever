@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "919886400853",
+    "firebase_url": "https://fir-selfyfever.firebaseio.com",
+    "project_id": "firebase-selfyfever",
+    "storage_bucket": "firebase-selfyfever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919886400853:android:ba3dd601c2f72ca0",
+        "android_client_info": {
+          "package_name": "com.technawabs.aditya.selfyfever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919886400853-0lrqt39h11nnk4hgr2e6u83ckub5docj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technawabs.aditya.selfyfever",
+            "certificate_hash": "67AB88E063DC4C2C0A9C8C2B13B0AF5F23D86993"
+          }
+        },
+        {
+          "client_id": "919886400853-9usfmapcigsub6orm4c983jkk3lqaf9k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "919886400853-jqb3h5givr5oml1karcouv2jcehdmc4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17YjUoZVM0Bculkx2Q5ltjtQWXqiLn-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75041527-8"
+          }
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919886400853-9usfmapcigsub6orm4c983jkk3lqaf9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

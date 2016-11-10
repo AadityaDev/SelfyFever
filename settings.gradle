@@ -1,0 +1,1 @@
+include ':app', ':kinvey-android-2.10.8', ':google-http-client-1.16.0-rc-sources', ':google-http-client-1.19.0'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SelfyFever.iml" filepath="$PROJECT_DIR$/SelfyFever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-http-client-1.16.0-rc-sources/google-http-client-1.16.0-rc-sources.iml" filepath="$PROJECT_DIR$/google-http-client-1.16.0-rc-sources/google-http-client-1.16.0-rc-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-http-client-1.19.0/google-http-client-1.19.0.iml" filepath="$PROJECT_DIR$/google-http-client-1.19.0/google-http-client-1.19.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kinvey-android-2.10.8/kinvey-android-2.10.8.iml" filepath="$PROJECT_DIR$/kinvey-android-2.10.8/kinvey-android-2.10.8.iml" />
+    </modules>
+  </component>
+</project>
